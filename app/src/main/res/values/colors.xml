@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_primary">#21AA58</color>
+    <color name="color_primary_accent">#01D170</color>
+    <color name="color_importance_high">#FF4340</color>
+    <color name="color_importance_middle">#FFBB00</color>
+    <color name="color_importance_normal">#0091FF</color>
+    <color name="defaultTextColor">#1D2830</color>
+    <color name="carbon">#1D2830</color>
+    <color name="secondaryTextColor">#AFBED0</color>
+    <color name="gray">#eee</color>
+    <color name="secondaryIconColor">#AFBED0</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
